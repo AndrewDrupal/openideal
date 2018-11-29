@@ -88,4 +88,8 @@ projects[wysiwyg_filter][version] = "1.6-rc9"
 ; Themes
 projects[bootstrap][version] = "3.15"
 projects[ember][version] = "2.0-alpha4"
-projects[socrates][version] = "1.6"
+projects[socrates][download][type] = git
+projects[socrates][download][url] = https://github.com/AndrewDrupal/socrates
+projects[socrates][download][branch] = master
+projects[socrates][download][tag] = 7.x-1.6
+
