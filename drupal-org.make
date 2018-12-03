@@ -92,4 +92,5 @@ projects[socrates][type] = "theme"
 projects[socrates][download][type] = git
 projects[socrates][download][url] = https://github.com/AndrewDrupal/socrates
 projects[socrates][download][branch] = master
+projects[socrates][download][tag] = master
 
